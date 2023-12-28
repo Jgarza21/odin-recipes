@@ -1,0 +1,1 @@
+This is my first real project using HTML and github. So far I have succesfully made this using on my terminal and VSCode. Lets see where this takes me
